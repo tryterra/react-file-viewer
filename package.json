@@ -89,7 +89,7 @@
     "react-data-grid": "^5.0.5",
     "react-visibility-sensor": "^5.0.2",
     "three": "0.85.2",
-    "xlsx": "^0.10.1"
+    "xlsx": "^0.18.5"
   },
   "peerDependencies": {
     "react": "^16.14.0",
